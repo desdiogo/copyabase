@@ -1,0 +1,28 @@
+{
+  "name": "sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsup src",
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "tsup": "^8.0.1",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.5.0",
+    "@fastify/multipart": "^8.1.0",
+    "dayjs": "^1.11.10",
+    "fastify": "^4.25.2",
+    "xlsx": "^0.18.5",
+    "zod": "^3.22.4"
+  }
+}

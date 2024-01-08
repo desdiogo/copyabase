@@ -1,0 +1,17 @@
+node_modules
+dist
+.pnpm-store
+.dockerignore
+.docker
+.git
+.gitignore
+.vscode
+npm-debug.log
+yarn-error.log
+*.log
+*.md
+Dockerfile*
+docker-compose*
+../README.md
+.vscode
+.idea
