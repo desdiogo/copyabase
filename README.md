@@ -2,7 +2,7 @@
 # Sobre O projeto
 
 ## Observação
-O arquivo para importar e o relatorio.xlsx, tentei importar em csv para o formato de alguns itens muda e a validação do zod
+O arquivo para importar e o relatorio.xlsx que se encontra no projeto, tentei importar em csv para o formato de alguns itens muda e a validação do zod
 falha.
 
 ## Detalhes
