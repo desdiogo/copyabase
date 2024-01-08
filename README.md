@@ -2,12 +2,12 @@
 # Sobre O projeto
 
 ## Observação
-O arquivo para importar e o relatorio.xlsx, tentei importar em csv para o formato de alguns itens muda e a validação do zod <br>
+O arquivo para importar e o relatorio.xlsx, tentei importar em csv para o formato de alguns itens muda e a validação do zod
 falha.
 
 ## Detalhes
-Acessando projeto frontend, selecionará o arquivo no formato xlsx, o arquivo será enviado para o backend e validado <br>
-e vai retornar os dados, se tiver tudo correto, terá acesso a quatro gráficos, a receita recorrente mensal, taxa de rotatividade <br>
+Acessando projeto frontend, selecionará o arquivo no formato xlsx, o arquivo será enviado para o backend e validado
+e vai retornar os dados, se tiver tudo correto, terá acesso a quatro gráficos, a receita recorrente mensal, taxa de rotatividade
 usuarios ativos e usuários inativos.
 
 ## Backend
